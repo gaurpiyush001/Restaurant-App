@@ -20,7 +20,7 @@
     }
     header{
       align-items: flex-start;
-      flex-direction: column;
+      /* flex-direction: column; */
       height: 6.5rem;
     }
   }
