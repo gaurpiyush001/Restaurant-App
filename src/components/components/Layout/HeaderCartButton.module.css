@@ -11,6 +11,18 @@
     border-radius: 25px;
     font-weight: bold;
   }
+
+  @media screen and (max-width:480px){
+    .button{
+      padding: .3rem .8rem;
+      /* margin-right: -5px; */
+    }
+    /* span{
+      font-size: 1rem;
+      //width: 1rem;
+      height: 1rem;
+    } */
+  }
   
   .button:hover,
   .button:active {
