@@ -17,6 +17,7 @@
   @media screen and (max-width: 480px){
     header h1{
       font-size: 28px;
+      margin-right: 1rem;
     }
     header{
       align-items: flex-start;
