@@ -1,4 +1,4 @@
-# Restuarant-App
+# Restaurant-App
 Restaurant App for ordering your favourite food with variety of meals, Built with knowledge of various React Hooks and with proper Components breakdown 
 
 # Getting Started with Create React App
