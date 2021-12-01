@@ -1,5 +1,5 @@
 # Restaurant-App
-Restaurant App for ordering your favourite food with variety of meals, Built with knowledge of various React Hooks and with proper Components breakdown 
+Restaurant App for ordering your favourite food with variety of meals dymaically fetching from Firebase and then storing User's Ordered meals with their information of placing order in database, Its a highly Optimized Web App built with knowledge of various React Hooks and proper breakdown of Components which will have impactful impression on the customers.
 
 # Getting Started with Create React App
 
