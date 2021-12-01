@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Restuarant-App/static/css/main.7c4286f8.chunk.css",
-    "main.js": "/Restuarant-App/static/js/main.7ff2c7fd.chunk.js",
-    "main.js.map": "/Restuarant-App/static/js/main.7ff2c7fd.chunk.js.map",
+    "main.css": "/Restuarant-App/static/css/main.c2802438.chunk.css",
+    "main.js": "/Restuarant-App/static/js/main.56c709be.chunk.js",
+    "main.js.map": "/Restuarant-App/static/js/main.56c709be.chunk.js.map",
     "runtime-main.js": "/Restuarant-App/static/js/runtime-main.02ec18a6.js",
     "runtime-main.js.map": "/Restuarant-App/static/js/runtime-main.02ec18a6.js.map",
-    "static/js/2.c3f8926d.chunk.js": "/Restuarant-App/static/js/2.c3f8926d.chunk.js",
-    "static/js/2.c3f8926d.chunk.js.map": "/Restuarant-App/static/js/2.c3f8926d.chunk.js.map",
+    "static/js/2.920a8777.chunk.js": "/Restuarant-App/static/js/2.920a8777.chunk.js",
+    "static/js/2.920a8777.chunk.js.map": "/Restuarant-App/static/js/2.920a8777.chunk.js.map",
     "index.html": "/Restuarant-App/index.html",
-    "static/css/main.7c4286f8.chunk.css.map": "/Restuarant-App/static/css/main.7c4286f8.chunk.css.map",
-    "static/js/2.c3f8926d.chunk.js.LICENSE.txt": "/Restuarant-App/static/js/2.c3f8926d.chunk.js.LICENSE.txt",
+    "static/css/main.c2802438.chunk.css.map": "/Restuarant-App/static/css/main.c2802438.chunk.css.map",
+    "static/js/2.920a8777.chunk.js.LICENSE.txt": "/Restuarant-App/static/js/2.920a8777.chunk.js.LICENSE.txt",
     "static/media/meals.2971f633.jpg": "/Restuarant-App/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.02ec18a6.js",
-    "static/js/2.c3f8926d.chunk.js",
-    "static/css/main.7c4286f8.chunk.css",
-    "static/js/main.7ff2c7fd.chunk.js"
+    "static/js/2.920a8777.chunk.js",
+    "static/css/main.c2802438.chunk.css",
+    "static/js/main.56c709be.chunk.js"
   ]
 }
