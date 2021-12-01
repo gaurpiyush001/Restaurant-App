@@ -3,9 +3,14 @@
     justify-content: space-between;
     align-items: center;
     border-bottom: 2px solid #8a2b06;
-    padding: 1rem 0;
-    margin: 1rem 0;
+    padding: .5rem 0;
+    margin: .2rem 0;
+    /* overflow: scroll; */
   }
+
+.heading{
+  font-size: 21px;
+}
   
   .cart-item h2 {
     margin: 0 0 0.5rem 0;

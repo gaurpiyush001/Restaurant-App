@@ -69,6 +69,10 @@ const cartReducer = (state, action) => {
 
   }
 
+  if(action.type === 'CLEAR') {//clearing cart after successfully ordering food items
+    return defaultCartState;
+  }
+
   return defaultCartState;
 };
 
@@ -87,12 +91,17 @@ const CartProvider = (props) => {
     dispatchCartAction({ type: "REMOVE", id: id });
   };
 
+  const clearCartHandler = () => {
+    dispatchCartAction({type:'CLEAR'});
+  }
+
   //below object will be dynamic
   const cartContext = {
     items: cartState.items,
     totalAmount: cartState.totalAmount,
     addItem: addItemToCartHandler,
     removeItem: removeItemFromCartHandler,
+    clearCart: clearCartHandler
   };
 
   return (
